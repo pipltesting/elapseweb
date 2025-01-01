@@ -53353,7 +53353,7 @@ if(r.e)B.b.ht(s,1,A.WD(B.Nr,"Tournament",A.bw(B.Nh,m,o,o,o)))
 m=A.xh(o,l,"Manrope",B.C,B.C,o)
 q=this.a.a
 p=r.d
-return A.bb_(!1,A.cX(o,new A.wd(q[p],new A.rg(),o),new A.WC(B.cP,p,s,new A.asN(r),l.b,B.Va,o)),m,"Flutter Demo")},
+return A.bb_(!1,A.cX(o,new A.wd(q[p],new A.rg(),o),new A.WC(B.cP,p,s,new A.asN(r),l.b,B.Va,o)),m,"Elapse")},
 $S:826}
 A.asN.prototype={
 $1(a){var s=this.a
